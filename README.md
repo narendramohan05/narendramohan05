@@ -36,15 +36,8 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=narendramohan05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendramohan05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=narendramohan05&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
 ## ♟️ Chess
 
 <p align="center">
-  <a href="https://www.chess.com/member/Narendramohan05">
-    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com Profile"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=narendramohan05&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
