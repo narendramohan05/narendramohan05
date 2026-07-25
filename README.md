@@ -25,3 +25,4 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
   <img src="assets/icons/github.svg" width="42" alt="GitHub"/>
   <img src="assets/icons/vscode.svg" width="42" alt="VS Code"/>
 </p>
+
