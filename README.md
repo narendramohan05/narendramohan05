@@ -29,3 +29,14 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
 <p align="center">
   <img src="https://raw.githubusercontent.com/narendramohan05/narendramohan05/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph">
 </p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=narendramohan05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendramohan05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=narendramohan05&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
