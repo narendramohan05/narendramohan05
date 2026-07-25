@@ -26,3 +26,6 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
   <img src="assets/icons/vscode.svg" width="42" alt="VS Code"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/narendramohan05/narendramohan05/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph">
+</p>
