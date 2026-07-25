@@ -40,3 +40,11 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=narendramohan05&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
+
+## ♟️ Chess
+
+<p align="center">
+  <a href="https://www.chess.com/member/Narendramohan05">
+    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com Profile"/>
+  </a>
+</p>
