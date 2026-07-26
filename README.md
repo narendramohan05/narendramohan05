@@ -33,6 +33,9 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
   <a href="https://github.com/narendramohan05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://monkeytype.com/profile/narendramohan">
+  <img src="https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge" />
+</a>
 
   <a href="https://www.linkedin.com/in/k-narendra-mohan-02b758314/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
