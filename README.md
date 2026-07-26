@@ -39,11 +39,11 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendramohan05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
-
-## ♟️ Chess
+<h2 align="center">🏆 LeetCode Stats</h2>
 
 <p align="center">
-  <a href="https://www.chess.com/member/Narendramohan05">
-    <img src="https://img.shields.io/badge/View%20My%20Chess.com%20Profile-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
+  <img
+    src="https://leetcard.jacoblin.cool/Narendramohan05?theme=dark&font=Nunito&ext=heatmap"
+    alt="LeetCode Stats"
+  />
 </p>
