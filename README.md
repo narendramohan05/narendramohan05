@@ -1,10 +1,11 @@
-<c>
-# Narendra Mohan
+<h1 align="center">Narendra Mohan</h1>
 
-### Software Engineer in Progress
+<h3 align="center">Software Engineer in Progress</h3>
 
-*Code • Learn • Build*
-<c/>
+<p align="center">
+  <i>Code • Learn • Build</i>
+</p>
+
 ---
 
 <p align="center">
