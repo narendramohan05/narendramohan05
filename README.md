@@ -1,9 +1,10 @@
+<c>
 # Narendra Mohan
 
 ### Software Engineer in Progress
 
 *Code • Learn • Build*
-
+<c/>
 ---
 
 <p align="center">
