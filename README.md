@@ -32,13 +32,6 @@ I'm an aspiring software developer who enjoys turning ideas into practical appli
   <img src="https://raw.githubusercontent.com/narendramohan05/narendramohan05/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph">
 </p>
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=narendramohan05&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendramohan05&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 <h2 align="center">🏆 LeetCode Stats</h2>
 
 <p align="center">
